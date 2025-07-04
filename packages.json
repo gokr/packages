@@ -35621,5 +35621,19 @@
     "description": "Nim wrapper for the UK Police Data API",
     "license": "MIT",
     "web": "https://github.com/nemuelw/ukpolice"
+  },
+  {
+    "name": "nimcp",
+    "url": "https://github.com/gokr/nimcp",
+    "method": "git",
+    "tags": [
+      "library",
+      "mcp",
+      "llm",
+      "protocol"
+    ],
+    "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+    "license": "MIT",
+    "web": "https://github.com/gokr/nimcp"
   }
 ]
